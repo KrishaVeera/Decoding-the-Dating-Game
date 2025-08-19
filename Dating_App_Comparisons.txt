@@ -1,0 +1,8 @@
+Ok-Cupid: 
+A deterministic, weighted blend of component scores (text, age, lifestyle, location). You pick the weights; output is a compatibility %.
+
+
+Hinge: 
+A supervised model that predicts the probability that two people will mutually like each other. Output is p(mutual_like) ∈ [0,1] (or 0–100%). The model learns the weights from data (not hand-set).
+
+
